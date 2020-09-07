@@ -1,0 +1,246 @@
+/**********************Laptop***************************/
+@media(max-width:1440px) {
+	.container-1440{
+		max-width: 90%;
+	}
+}
+
+/**********************Laptop with touch***************************/
+@media(max-width:1280px) {
+	.blockchain-technology p {
+    	font-size: 32px;
+	}
+}
+
+/**********************Ipad pro***************************/
+@media(max-width:1024px) {
+	.topmain-heading p{
+		max-width: 95%;
+	}
+	.steps-numbers figure.working-step img {
+	    max-width: 100%;
+	}
+	.steps-numbers figure.working-step {
+	    height: 250px;
+	}
+	.blockchain-technology h1 {
+	    font-size: 34px;
+	}
+	.blockchain-technology p {
+	    font-size: 26px;
+	    line-height: normal;
+	}
+	.launching-data{
+		max-width: 85%;
+	}
+	.left-data.w-50.mb-5 {
+	    margin-bottom: 0px!important;
+	}
+	h2.step-number {
+	    font-size: 24px;
+	}
+	.repeating-strucure h2.step-number {
+	    margin-bottom: 30px;
+	}
+	.repeating-strucure {
+	    margin: 50px 0px;
+	}
+}
+
+/**********************toggler start***************************/
+@media(max-width:991px) {
+	body{
+		padding-top: 60px;
+	}
+	ul.listing-aarow li span.mr-4 {
+	    margin-right: 12px!important;
+	    margin-top: 8px;
+	}
+	ul.listing-aarow li span{
+		width: 20px;
+		height: 20px;
+		min-width: 20px;
+		max-width: 20px;
+		min-height: 20px;
+		max-height: 20px;
+	}
+	ul.navbar-nav {
+	    flex-direction: inherit;
+    	justify-content: flex-end;
+	}
+	header.mt-3 {
+	    margin-top: 0px!important;
+	}
+	.topmain-heading h2 {
+    	font-size: 34px;
+    	margin-bottom: 25px!important;
+ 	}
+	ul.navbar-nav li.nav-item:nth-child(2) {
+	    display: none;
+	}
+	ul.navbar-nav li.nav-item:last-child {
+	    display: block;
+	}
+	.topmain-heading p {
+	    max-width: 100%;
+	}
+	.topmain-heading p {
+	    font-size: 19px;
+	    line-height: 26px;
+	}
+	.topmain-heading p span.blue-color {
+	    font-size: 19px;
+	}
+	.repeating-strucure h2.step-number{
+		margin-bottom: 25px;
+		line-height: 28px;
+		font-size: 20px;
+	}
+	li.nav-item a.nav-link {
+	    font-size: 14px;
+	    color: #ffffff;
+	    font-weight: 500;
+	}
+	.w-50 {
+	    min-width: 100%;
+	    width: 100%;
+	}
+	.technology-img {
+	    display: none;
+	}
+	.d-none {
+	    display: block!important;
+	}
+	.launching-data {
+	    max-width: 100%;
+	}
+	.contact-us a {
+	    font-size: 14px;
+	    line-height: 21px;
+	    color: #ffffff;
+	    font-weight: 500;
+	}
+	.blockchain-technology h1 {
+	    font-size: 55px;
+	    text-align: center;
+	    margin-bottom: 20px;
+	}
+	.blockchain-technology p {
+	    font-size: 36px;
+	    line-height: normal;
+	    text-align: center;
+	}
+	.launching-data {
+	    text-align: center;
+	}
+	.Supportedby {
+	    text-align: center;
+	}
+	.contact-us {
+	    text-align: center;
+	}
+	.copy-rights p {
+	    text-align: center;
+	}
+	header .collapse:not(.show) {
+	    display: block;
+	}
+	nav.navbar.navbar-expand-lg.bg-transparent {
+	    flex-wrap: nowrap;
+	}
+	html{
+		overflow-x: hidden;
+	}
+	.launching-data{
+		padding: 40px;
+	}
+	ul.listing-aarow li {
+	    font-size: 12px;
+	    font-weight: 400;
+	    align-items: inherit;
+	}
+	l.listing-aarow li span.mr-4 {
+	    margin-top: 8px;
+	}
+	figure.my-5.py-1.wt-100.dashboard-imgcover {
+	    margin: 25px 0px!important;
+	}
+	nav.navbar.navbar-expand-lg.bg-transparent a.navbar-brand {
+	    max-width: 100px;
+	}
+}
+
+/**********************Ipad***************************/
+@media(max-width:768px){
+	.container-1440{
+		max-width: 95%;
+	}
+	.common-paragraph p {
+	    font-size: 12px;
+	    line-height: 24px;
+	    font-weight: 400;
+	}
+	.commonstyle-area div#accordionExample .card .card-body p {
+	    font-size: 12px;
+	    line-height: 24px;
+	    color: #9494bc;
+	    font-weight:400;
+	}
+}	
+/**********************Small devices(mobile phones)***************************/
+@media(max-width:767px){
+	body{
+		background-image: url(../images/mobilebg.png);
+	}
+	.blockchain-technology h1 {
+	    font-size: 40px;
+	}
+	.container-1440{
+		max-width: 100%;
+	}
+	.launching-data {
+	    padding: 40px 15px;
+	}
+	.blockchain-technology p {
+	    font-size: 20px;
+	}
+	.launching-data h4 {
+	    font-size: 26px;
+	}
+	.Supportedby p{
+		font-size: 14px;
+	}
+	.commonstyle-area h2 {
+	    font-size: 24px;
+	    line-height: 38px;
+	}
+	.commonstyle-area p {
+	    font-size: 16px;
+	    line-height: 30px;
+	}
+	.steps-numbers {
+	    margin-bottom: 80px;
+	}
+	section.Howit-works .steps-numbers p {
+	    font-size: 15px;
+	    line-height: 26px;
+	    font-weight: 400;
+	}
+	.steps-numbers figure.working-step {
+	    height: 270px;
+	}
+	section.Howit-works .steps-numbers label {
+	    font-size: 18px;
+	}
+	section.Howit-works.commonstyle-area .row .col-lg-4.col-md-4.col-sm-12:last-child .steps-numbers{
+	  margin-bottom: 0px;
+	}
+	section.Howit-works.commonstyle-area button.btn.btn-theme {
+	  width: 90%;
+	}
+	div#accordionExample button.btn.btn-link {
+	    font-size: 16px;
+	    line-height: 24px;
+	    padding-right: 30px;
+	}
+}
